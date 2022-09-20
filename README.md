@@ -50,4 +50,4 @@
    
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-   ![flujo de trabajo](https://github.com/danielfont-z/TestMarkdown/blob/main/blastoise.png)
+   ![flujo de trabajo]()
