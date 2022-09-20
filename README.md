@@ -2,15 +2,15 @@
 
 1. ¿Qué es una página web?
 
-   Respuesta.
+   Es un documento que se puede mostrar en un navegador web (como Google Chrome,  Mozilla Firefox o Safari de Apple).
 
 2. ¿Qué es un sitio web?
 
-   Respuesta.
+   Es una colección de páginas web que se agrupan y normalmente se conectan de varias maneras. La sección de Ciencias es como un sitio web.
    
 3. ¿Qué es una aplicación web?
 
-   Respuesta.
+   Son programas que funcionan en internet.
 
 4. ¿Qué es una herramienta ofimática?
 
@@ -50,4 +50,4 @@
    
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-   ![flujo de trabajo]()
+   ![flujo de trabajo](https://github.com/danielfont-z/M4UF1A2_documentarConMarkdown_DanielFontCapilla/blob/main/flujo%20de%20trabjo.png)
